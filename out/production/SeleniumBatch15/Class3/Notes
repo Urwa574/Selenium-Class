@@ -161,17 +161,7 @@ answer :
 in order to use this locator u just give the tagName
 it is very help ful in scenarios where u want to get mutliple elements with the same tag name.
 
-
-
-
-
-
 task : goto amazon.com and get all the links.
-
-
-
-
-
 
 
 ------------------------------------- revise-----------------------------------

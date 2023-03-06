@@ -46,7 +46,7 @@ Disadvantages of Selenium WebDriver:
 -- No technical support
 -- Cannot test desktop applications
 -- no built in reports
--- cannot test captchas, images, videos
+-- cannot test captcha, images, videos
 -- takes more time to create test cases
 
 get() vs navigate()
